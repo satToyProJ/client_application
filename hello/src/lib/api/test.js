@@ -1,3 +1,3 @@
-import client from "./client";
+import client from './client';
 
-export const test = {};
+export const message = () => client.get('/demo');
