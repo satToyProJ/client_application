@@ -45,5 +45,6 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://54.180.113.96:8080"
+  "proxy": "http://54.180.113.96:8080",
+  "homepage": "https://github.com/satToyProJ/client_application.git"
 }
