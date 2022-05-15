@@ -29,10 +29,10 @@ const IndexBlock = styled.div`
   }
 `;
 
-const Index = () => {
+const Index = ({ message }) => {
   return (
     <IndexBlock>
-      <h1>HELLO</h1>
+      <h1>내 이름은 {message}</h1>
     </IndexBlock>
   );
 };
